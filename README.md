@@ -2,6 +2,10 @@
 Project Title:
 Predictive Analysis of Operational Performance and Customer Satisfaction in a Quick Service Restaurant
 
+Link notion page:
+[(English version)](https://www.notion.so/ekapujiwara/Predictive-Analysis-of-Operational-QSR-2cdc5d1ee80d80fd947cc16c4815a479?source=copy_link)
+[(versi Bahasa Indonesia)](https://www.notion.so/ekapujiwara/Predictive-Analysis-of-Operational-QSR-2cec5d1ee80d816d931ac4d8564bdf55?source=copy_link)
+
 Dashboard Preview:
 ![page1](https://github.com/Pujiwara/Pictures/blob/main/Predictive%20Analysis%20of%20Operational%20QSR_page-0001.jpg)
 ![page2](https://github.com/Pujiwara/Pictures/blob/main/Predictive%20Analysis%20of%20Operational%20QSR_page-0002.jpg)
